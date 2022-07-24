@@ -4,3 +4,7 @@ Aplicativo Simulador de Partidas Android Nativo. Este repositório foi organizad
 
 1. Desenvolvimento Mobile Nativo Para Android
    - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/LorranFranzDev/simulador-de-partidas/tree/release/desenvolvimento-mobile-nativo-para-android)
+
+1. Componentes, Layouts e UI/UX Em Apps Android
+   - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/LorranFranzDev/simulador-de-partidas/tree/release/componentes-layouts-ui-ux-em-apps-android)
+
